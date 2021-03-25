@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaaee25a-c502-4c20-8db2-d6c88192b23d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MANIFEST.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/blog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/templates/auth/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/templates/auth/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/templates/blog/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/templates/blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskr/templates/blog/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_blog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +81,7 @@
       <workItem from="1616596986726" duration="1135000" />
       <workItem from="1616598146133" duration="8000" />
       <workItem from="1616598238486" duration="4450000" />
-      <workItem from="1616636998263" duration="12537000" />
+      <workItem from="1616636998263" duration="13159000" />
     </task>
     <servers />
   </component>
